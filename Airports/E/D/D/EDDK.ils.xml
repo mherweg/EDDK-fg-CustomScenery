@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <runway>
+    <ils>
+      <lon>7.12070600000001</lon>
+      <lat>50.859192</lat>
+      <rwy>24</rwy>
+      <hdg-deg>244.34</hdg-deg>
+      <elev-m>70.41</elev-m>
+      <nav-id>IKOW</nav-id>
+    </ils>
+  </runway>
+  <runway>
+    <ils>
+      <lon>7.16906400000001</lon>
+      <lat>50.8528670000001</lat>
+      <rwy>14L</rwy>
+      <hdg-deg>137.58</hdg-deg>
+      <elev-m>92.05</elev-m>
+      <nav-id>IKES</nav-id>
+    </ils>
+    <ils>
+      <lon>7.12643900000001</lon>
+      <lat>50.8822860000001</lat>
+      <rwy>32R</rwy>
+      <hdg-deg>317.55</hdg-deg>
+      <elev-m>70.10</elev-m>
+      <nav-id>IKEN</nav-id>
+    </ils>
+  </runway>
+</PropertyList>
