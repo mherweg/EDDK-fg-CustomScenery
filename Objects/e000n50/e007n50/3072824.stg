@@ -4,7 +4,8 @@
 
 
 #  osm to blender import:
-OBJECT_STATIC eddk-textured.ac 7.12316821 50.87893525 65.9764 90.0 0.0 -0.0
+OBJECT_STATIC eddk-textured.ac 7.12316821 50.87893525 68.0 90.0 0.0 -0.0
+#OBJECT_STATIC eddk-osm.ac 7.12316821 50.87893525 65.9764 90.0 0.0 -0.0
 
 
 
