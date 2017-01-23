@@ -80,54 +80,7 @@
     <entrance-heading-deg type="double">0</entrance-heading-deg>
   </initial-position>
 </jetway>
-<jetway n="5">
-  <model type="string">glass</model>
-  <gate type="string">C70</gate>
-  <door type="int">0</door>
-  <airline type="string">FGFS</airline>
-  <latitude-deg type="double">50.87826388</latitude-deg>
-  <longitude-deg type="double">7.123694774</longitude-deg>
-  <elevation-m type="double">68.723</elevation-m>
-  <heading-deg type="double">71.990005</heading-deg>
-  <initial-position>
-    <jetway-extension-m type="double">0</jetway-extension-m>
-    <jetway-heading-deg type="double">0</jetway-heading-deg>
-    <jetway-pitch-deg type="double">0</jetway-pitch-deg>
-    <entrance-heading-deg type="double">0</entrance-heading-deg>
-  </initial-position>
-</jetway>
-<jetway n="6">
-  <model type="string">glass</model>
-  <gate type="string">B71</gate>
-  <door type="int">0</door>
-  <airline type="string">FGFS</airline>
-  <latitude-deg type="double">50.877807116</latitude-deg>
-  <longitude-deg type="double">7.123450991</longitude-deg>
-  <elevation-m type="double">68.641</elevation-m>
-  <heading-deg type="double">71.990005</heading-deg>
-  <initial-position>
-    <jetway-extension-m type="double">0</jetway-extension-m>
-    <jetway-heading-deg type="double">0</jetway-heading-deg>
-    <jetway-pitch-deg type="double">0</jetway-pitch-deg>
-    <entrance-heading-deg type="double">0</entrance-heading-deg>
-  </initial-position>
-</jetway>
-<jetway n="7">
-  <model type="string">glass</model>
-  <gate type="string">B70</gate>
-  <door type="int">0</door>
-  <airline type="string">FGFS</airline>
-  <latitude-deg type="double">50.877482201</latitude-deg>
-  <longitude-deg type="double">7.123281835</longitude-deg>
-  <elevation-m type="double">68.58</elevation-m>
-  <heading-deg type="double">71.990005</heading-deg>
-  <initial-position>
-    <jetway-extension-m type="double">0</jetway-extension-m>
-    <jetway-heading-deg type="double">0</jetway-heading-deg>
-    <jetway-pitch-deg type="double">0</jetway-pitch-deg>
-    <entrance-heading-deg type="double">0</entrance-heading-deg>
-  </initial-position>
-</jetway>
+
 <jetway n="8">
   <model type="string">generic</model>
   <gate type="string">B2</gate>
