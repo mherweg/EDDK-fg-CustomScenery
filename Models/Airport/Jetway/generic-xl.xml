@@ -16,7 +16,7 @@
 	<extend-offset-m>18.6</extend-offset-m>
 	<entrance-offset-m>2.4</entrance-offset-m>
 	<min-extend-m>0</min-extend-m>
-	<max-extend-m>47</max-extend-m>
+	<max-extend-m>40</max-extend-m>
 
 	<!-- Parameters set by the script -->
 	<toggle-action-script type="string" />
