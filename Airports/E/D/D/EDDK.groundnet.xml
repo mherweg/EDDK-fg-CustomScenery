@@ -28,11 +28,11 @@
         <Parking index="23" type="gate" name="B42" lat="N50 52.626602" lon="E7 7.088243" heading="179.95"  radius="44" pushBackRoute="188" airlineCodes="" />
         <Parking index="24" type="gate" name="B44" lat="N50 52.583005" lon="E7 7.101014" heading="118.91"  radius="44" pushBackRoute="188" airlineCodes="" />
         <Parking index="25" type="gate" name="B46" lat="N50 52.569618" lon="E7 7.138702" heading="121.01"  radius="44" pushBackRoute="188" airlineCodes="" />
-        <Parking index="26" type="gate" name="C_1" lat="N50 52.765273" lon="E7 7.375569" heading="-150.29"  radius="44" pushBackRoute="142" airlineCodes="" />
-        <Parking index="27" type="gate" name="C_3" lat="N50 52.788025" lon="E7 7.420308" heading="-113.14"  radius="44" pushBackRoute="247" airlineCodes="" />
-        <Parking index="28" type="gate" name="C4" lat="N50 52.774345" lon="E7 7.455150" heading="-95.68"  radius="44" pushBackRoute="252" airlineCodes="" />
-        <Parking index="29" type="gate" name="C5" lat="N50 52.747877" lon="E7 7.489656" heading="-71.88"  radius="44" pushBackRoute="251" airlineCodes="" />
-        <Parking index="30" type="gate" name="C6" lat="N50 52.723499" lon="E7 7.476784" heading="-71.88"  radius="44" pushBackRoute="269" airlineCodes="" />
+        <Parking index="26" type="gate" name="C_1" lat="N50 52.765273" lon="E7 7.375569" heading="-150.29"  radius="44" pushBackRoute="142" airlineCodes="GWI" />
+        <Parking index="27" type="gate" name="C_3" lat="N50 52.788025" lon="E7 7.420308" heading="-113.14"  radius="44" pushBackRoute="247" airlineCodes="GWI" />
+        <Parking index="28" type="gate" name="C4" lat="N50 52.774345" lon="E7 7.455150" heading="-95.68"  radius="44" pushBackRoute="252" airlineCodes="GWI" />
+        <Parking index="29" type="gate" name="C5" lat="N50 52.747877" lon="E7 7.489656" heading="-71.88"  radius="44" pushBackRoute="251" airlineCodes="GWI" />
+        <Parking index="30" type="gate" name="C6" lat="N50 52.723499" lon="E7 7.476784" heading="-71.88"  radius="44" pushBackRoute="269" airlineCodes="GWI" />
         <Parking index="31" type="gate" name="C12" lat="N50 52.784520" lon="E7 7.326655" heading="-81.21"  radius="44" pushBackRoute="142" airlineCodes="" />
         <Parking index="32" type="gate" name="C12" lat="N50 52.803887" lon="E7 7.349243" heading="-54.26"  radius="44" pushBackRoute="142" airlineCodes="" />
         <Parking index="33" type="gate" name="D_1" lat="N50 52.831752" lon="E7 7.311897" heading="-144.23"  radius="44" pushBackRoute="238" airlineCodes="BER" />

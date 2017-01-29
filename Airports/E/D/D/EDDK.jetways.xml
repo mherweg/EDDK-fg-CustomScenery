@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PropertyList>
 <jetway n="0">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">C1</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -17,7 +17,7 @@
   </initial-position>
 </jetway>
 <jetway n="1">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">C2</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -33,7 +33,7 @@
   </initial-position>
 </jetway>
 <jetway n="2">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">C3</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -49,7 +49,7 @@
   </initial-position>
 </jetway>
 <jetway n="3">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">C4</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -65,7 +65,7 @@
   </initial-position>
 </jetway>
 <jetway n="4">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">C5</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -82,7 +82,7 @@
 </jetway>
 
 <jetway n="8">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">B2</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -98,7 +98,7 @@
   </initial-position>
 </jetway>
 <jetway n="9">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">B3</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -114,7 +114,7 @@
   </initial-position>
 </jetway>
 <jetway n="10">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">B4</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -130,7 +130,7 @@
   </initial-position>
 </jetway>
 <jetway n="11">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">B5</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -146,7 +146,7 @@
   </initial-position>
 </jetway>
 <jetway n="12">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">D1</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -162,7 +162,7 @@
   </initial-position>
 </jetway>
 <jetway n="13">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">D2</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -178,7 +178,7 @@
   </initial-position>
 </jetway>
 <jetway n="14">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">D3</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -194,7 +194,7 @@
   </initial-position>
 </jetway>
 <jetway n="15">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">D4</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -210,7 +210,7 @@
   </initial-position>
 </jetway>
 <jetway n="16">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">D5</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -226,7 +226,7 @@
   </initial-position>
 </jetway>
 <jetway n="17">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">D6</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -242,7 +242,7 @@
   </initial-position>
 </jetway>
 <jetway n="18">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">D8</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
@@ -258,7 +258,7 @@
   </initial-position>
 </jetway>
 <jetway n="19">
-  <model type="string">generic</model>
+  <model type="string">generic_s</model>
   <gate type="string">D7</gate>
   <door type="int">0</door>
   <airline type="string">FGFS</airline>
