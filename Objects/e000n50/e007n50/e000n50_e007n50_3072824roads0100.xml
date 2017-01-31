@@ -8,7 +8,8 @@
     OR the lightmap shader
         <inherits-from>roads</inherits-from>
 -->
-        <inherits-from>roads</inherits-from>
+	  <inherits-from>Effects/road-high</inherits-from>
         <object-name>e000n50_e007n50_3072824roads0100</object-name>
+        
 </effect>
 </PropertyList>

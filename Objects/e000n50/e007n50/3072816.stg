@@ -463,7 +463,7 @@ OBJECT_SHARED Models/Airport/thangar2.ac 7.13267896 50.87013059 73.44 40
 OBJECT_SHARED Models/Airport/thangar2.ac 7.13292893 50.86905441 73.6 41.3
 OBJECT_SHARED Models/Airport/thangar2.ac 7.13363317 50.86944544 73.88 41.2
 OBJECT_SHARED Models/Aircraft/superfrelon.xml 7.12008406 50.86584968 69.05 285.5
-OBJECT_SHARED Models/Aircraft/dauphin.xml 7.12098586 50.86382202 69.97 288
+OBJECT_SHARED Models/Aircraft/dauphin.ac 7.12098586 50.86382202 69.97 288
 OBJECT_SHARED Models/Airport/eddf_blast_deflector_generic.xml 7.1182364 50.86823788 67.68 194.6
 OBJECT_SHARED Models/Airport/eddf_blast_deflector_generic.xml 7.11866191 50.86723882 68.12 194.5
 OBJECT_SHARED Models/Airport/eddf_blast_deflector_generic.xml 7.12057571 50.86243391 70.24 194.5

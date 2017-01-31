@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>eddk-latest.ac</path>
+
+
+<animation>
+<type>shader</type>
+<shader>chrome</shader>
+<texture>EGLL-tower1.png</texture>
+
+<object-name>Terminal</object-name>
+<object-name>fenster.001</object-name>
+<object-name>fenster.002</object-name>
+<object-name>Bahnhof</object-name>
+<object-name>Treppenhaus</object-name>
+
+<object-name>foo</object-name>
+
+</animation>
+
+</PropertyList>
