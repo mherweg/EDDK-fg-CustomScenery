@@ -3,11 +3,14 @@
 
 
 
-#  osm to blender import:
+#  between 100 and 150 objects in one .ac file:
+# T1, T2, P1-3., FedEx, ...
 OBJECT_STATIC eddk-latest.xml 7.12316821 50.87893525 66.0 90.0 0.0 -0.0
 
 
+OBJECT_SHARED Models/Airport/EUROPOLES_LOCBRIDGE_50M.xml 7.1233518 50.8844362 67.88 217.8
 OBJECT_SHARED Models/Aircraft/fedex310.xml 7.12625227 50.87665771 69.9415 136.0 0.0 -0.0
+OBJECT_STATIC EDDH_Radartower2.xml 7.1463406 50.8758767 88.21 156
 
 # P1
 OBJECT_SHARED Models/lib/cars14.ac 7.12157909 50.87885832 70.3579 236.0 0.0 -0.0

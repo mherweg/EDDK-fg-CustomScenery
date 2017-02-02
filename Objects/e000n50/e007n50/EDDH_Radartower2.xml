@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+	<path>EDDH_Radartower2.ac</path>
+
+	<animation>
+		<type>range</type>
+		<object-name>AntennaReflector</object-name>
+		<object-name>Antenna</object-name>
+		<min-m>0</min-m>
+		<max-property>/sim/rendering/static-lod/detailed</max-property>
+	</animation>
+
+	<animation>
+		<type>range</type>
+		<object-name>Building</object-name>
+		<min-m>0</min-m>
+		<max-property>/sim/rendering/static-lod/rough</max-property>
+	</animation>
+
+	<animation>
+		<type>rotate</type>
+		<object-name>AntennaReflector</object-name>
+		<object-name>Antenna</object-name>
+		<property>/sim/time/elapsed-sec</property>
+		<factor>-60.0</factor>
+		<axis>
+			<z>1</z>
+		</axis>
+	</animation>
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>0</x-m>
+			<y-m>4.8</y-m>
+			<z-m>34.3</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>4.8</x-m>
+			<y-m>0</y-m>
+			<z-m>34.3</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>0</x-m>
+			<y-m>-4.8</y-m>
+			<z-m>34.3</z-m>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+		<offsets>
+			<x-m>-4.8</x-m>
+			<y-m>0</y-m>
+			<z-m>34.3</z-m>
+		</offsets>
+	</model>	
+</PropertyList>
