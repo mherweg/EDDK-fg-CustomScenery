@@ -28,29 +28,29 @@
         <Parking index="23" type="gate" name="B42" lat="N50 52.626602" lon="E7 7.088243" heading="179.95"  radius="44" pushBackRoute="188" airlineCodes="" />
         <Parking index="24" type="gate" name="B44" lat="N50 52.583005" lon="E7 7.101014" heading="118.91"  radius="44" pushBackRoute="188" airlineCodes="" />
         <Parking index="25" type="gate" name="B46" lat="N50 52.569618" lon="E7 7.138702" heading="121.01"  radius="44" pushBackRoute="188" airlineCodes="" />
-        <Parking index="26" type="gate" name="C_1" lat="N50 52.765273" lon="E7 7.375569" heading="-150.29"  radius="44" pushBackRoute="142" airlineCodes="GWI" />
-        <Parking index="27" type="gate" name="C_3" lat="N50 52.788025" lon="E7 7.420308" heading="-113.14"  radius="44" pushBackRoute="247" airlineCodes="GWI" />
-        <Parking index="28" type="gate" name="C4" lat="N50 52.774345" lon="E7 7.455150" heading="-95.68"  radius="44" pushBackRoute="252" airlineCodes="GWI" />
-        <Parking index="29" type="gate" name="C5" lat="N50 52.747877" lon="E7 7.489656" heading="-71.88"  radius="44" pushBackRoute="251" airlineCodes="GWI" />
-        <Parking index="30" type="gate" name="C6" lat="N50 52.723499" lon="E7 7.476784" heading="-71.88"  radius="44" pushBackRoute="269" airlineCodes="GWI" />
+        <Parking index="26" type="gate" name="C_1" lat="N50 52.765273" lon="E7 7.375569" heading="-150.29"  radius="44" pushBackRoute="142" airlineCodes="DLH,GWI" />
+        <Parking index="27" type="gate" name="C_3" lat="N50 52.788025" lon="E7 7.420308" heading="-113.14"  radius="44" pushBackRoute="247" airlineCodes="DLH,GWI" />
+        <Parking index="28" type="gate" name="C4" lat="N50 52.774345" lon="E7 7.455150" heading="-95.68"  radius="44" pushBackRoute="252" airlineCodes="DLH,GWI" />
+        <Parking index="29" type="gate" name="C5" lat="N50 52.747877" lon="E7 7.489656" heading="-71.88"  radius="44" pushBackRoute="251" airlineCodes="DLH,GWI" />
+        <Parking index="30" type="gate" name="C6" lat="N50 52.723499" lon="E7 7.476784" heading="-71.88"  radius="44" pushBackRoute="269" airlineCodes="DLH,GWI" />
         <Parking index="31" type="gate" name="C12" lat="N50 52.784520" lon="E7 7.326655" heading="-81.21"  radius="44" pushBackRoute="142" airlineCodes="" />
         <Parking index="32" type="gate" name="C12" lat="N50 52.803887" lon="E7 7.349243" heading="-54.26"  radius="44" pushBackRoute="142" airlineCodes="" />
-        <Parking index="33" type="gate" name="D_1" lat="N50 52.831752" lon="E7 7.311897" heading="-144.23"  radius="44" pushBackRoute="238" airlineCodes="BER" />
+        <Parking index="33" type="gate" name="D_1" lat="N50 52.831752" lon="E7 7.311897" heading="-144.23"  radius="44" pushBackRoute="238" airlineCodes="BER,RYR" />
         <Parking index="34" type="gate" name="D_2L" lat="N50 52.846118" lon="E7 7.280016" heading="-144.12"  radius="44" pushBackRoute="239" airlineCodes="" />
-        <Parking index="35" type="gate" name="D_2" lat="N50 52.846149" lon="E7 7.267200" heading="-144.12"  radius="44" pushBackRoute="239" airlineCodes="BER" />
+        <Parking index="35" type="gate" name="D_2" lat="N50 52.846149" lon="E7 7.267200" heading="-144.12"  radius="44" pushBackRoute="239" airlineCodes="BER,RYR" />
         <Parking index="36" type="gate" name="D_3" lat="N50 52.861258" lon="E7 7.248858" heading="-144.12"  radius="44" pushBackRoute="240" airlineCodes="" />
         <Parking index="37" type="gate" name="D_4L" lat="N50 52.869072" lon="E7 7.221446" heading="-144.33"  radius="44" pushBackRoute="241" airlineCodes="" />
         <Parking index="38" type="gate" name="D_4R" lat="N50 52.873806" lon="E7 7.214399" heading="-144.33"  radius="44" pushBackRoute="241" airlineCodes="" />
-        <Parking index="39" type="gate" name="D_5" lat="N50 52.891276" lon="E7 7.186072" heading="-144.33"  radius="44" pushBackRoute="242" airlineCodes="BER" />
+        <Parking index="39" type="gate" name="D_5" lat="N50 52.891276" lon="E7 7.186072" heading="-144.33"  radius="44" pushBackRoute="242" airlineCodes="BER,RYR" />
         <Parking index="40" type="gate" name="D_6L" lat="N50 52.900231" lon="E7 7.162056" heading="-143.4"  radius="44" pushBackRoute="243" airlineCodes="" />
         <Parking index="41" type="gate" name="D_6R" lat="N50 52.905090" lon="E7 7.155375" heading="-143.4"  radius="44" pushBackRoute="243" airlineCodes="" />
-        <Parking index="42" type="gate" name="D_7" lat="N50 52.918996" lon="E7 7.127340" heading="-143.4"  radius="44" pushBackRoute="244" airlineCodes="BER" />
+        <Parking index="42" type="gate" name="D_7" lat="N50 52.918996" lon="E7 7.127340" heading="-143.4"  radius="44" pushBackRoute="244" airlineCodes="BER,RYR" />
         <Parking index="43" type="gate" name="D_8L" lat="N50 52.926241" lon="E7 7.092970" heading="215.76"  radius="44" pushBackRoute="245" airlineCodes="" />
         <Parking index="44" type="gate" name="D_8R" lat="N50 52.928511" lon="E7 7.090193" heading="-144.24"  radius="44" pushBackRoute="246" airlineCodes="" />
-        <Parking index="45" type="gate" name="D_9" lat="N50 52.943116" lon="E7 7.051744" heading="-144.24"  radius="44" pushBackRoute="246" airlineCodes="RYR" />
-        <Parking index="46" type="gate" name="D10" lat="N50 52.959611" lon="E7 7.028253" heading="216.09"  radius="44" pushBackRoute="237" airlineCodes="RYR" />
-        <Parking index="47" type="gate" name="D11" lat="N50 52.968579" lon="E7 6.996084" heading="216.09"  radius="44" pushBackRoute="237" airlineCodes="RYR" />
-        <Parking index="48" type="gate" name="D12" lat="N50 52.981443" lon="E7 6.967752" heading="216.09"  radius="44" pushBackRoute="237" airlineCodes="RYR" />
+        <Parking index="45" type="gate" name="D_9" lat="N50 52.943116" lon="E7 7.051744" heading="-144.24"  radius="44" pushBackRoute="246" airlineCodes="BER,RYR" />
+        <Parking index="46" type="gate" name="D10" lat="N50 52.959611" lon="E7 7.028253" heading="216.09"  radius="44" pushBackRoute="237" airlineCodes="BER,RYR" />
+        <Parking index="47" type="gate" name="D11" lat="N50 52.968579" lon="E7 6.996084" heading="216.09"  radius="44" pushBackRoute="237" airlineCodes="BER,RYR" />
+        <Parking index="48" type="gate" name="D12" lat="N50 52.981443" lon="E7 6.967752" heading="216.09"  radius="44" pushBackRoute="237" airlineCodes="BER,RYR" />
         <Parking index="49" type="gate" name="D20" lat="N50 53.025208" lon="E7 7.142799" heading="35.68"  radius="44" pushBackRoute="245" airlineCodes="" />
         <Parking index="50" type="gate" name="D21" lat="N50 53.017525" lon="E7 7.176822" heading="35.68"  radius="44" pushBackRoute="244" airlineCodes="" />
         <Parking index="51" type="gate" name="D22" lat="N50 53.000023" lon="E7 7.199256" heading="35.68"  radius="44" pushBackRoute="243" airlineCodes="" />
