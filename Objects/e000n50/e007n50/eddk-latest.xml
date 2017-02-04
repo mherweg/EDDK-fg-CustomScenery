@@ -11,8 +11,8 @@
 <texture>EGLL-tower1.png</texture>
 
 <object-name>Terminal</object-name>
-<object-name>fenster.001</object-name>
-<object-name>fenster.002</object-name>
+<object-name>fenster.sternB</object-name>
+<object-name>fenster.sternC</object-name>
 <object-name>Bahnhof</object-name>
 <object-name>Treppenhaus</object-name>
 
