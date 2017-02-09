@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+	<name>Effects/road-high</name>
+	<inherits-from>Effects/road</inherits-from>
+	<parameters>
+		<speed-factor>1.2</speed-factor>
+		<base-density>3.0</base-density>
+	</parameters>
+</PropertyList>

@@ -4,7 +4,7 @@
 
 
 #  between 100 and 150 objects in one .ac file:
-# T1, T2, P1-3., FedEx, ...
+# T1, T2, P1-3, cargo city
 OBJECT_STATIC eddk-latest.xml 7.12316821 50.87893525 66.0 90.0 0.0 -0.0
 
 
