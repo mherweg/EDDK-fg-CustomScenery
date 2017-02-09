@@ -10,7 +10,6 @@
 <shader>chrome</shader>
 <texture>EGLL-tower1.png</texture>
 
-<object-name>Terminal</object-name>
 <object-name>fenster.sternB</object-name>
 <object-name>fenster.sternC</object-name>
 <object-name>Bahnhof</object-name>

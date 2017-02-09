@@ -1,6 +1,7 @@
 
 
 OBJECT_STATIC EDDK-Tower.xml 7.13428111 50.86909042 73.5720 40.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/citation_bravo_lowpoly.ac 7.11923227 50.86777747 68.0436 264.0 0.0 -0.0
 
 # phantom F4 and Tornado IDS
 # static aircraft needed
@@ -528,7 +529,7 @@ OBJECT_SHARED Models/Residential/zone_maisons_grd.xml 7.10755865 50.87394939 62.
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml 7.10799937 50.8706396 61.41 0
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml 7.10828065 50.8612796 64.57 94.9
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml 7.10830718 50.857356 59.87 0
-OBJECT_SHARED Models/Commercial/hotel-generic-01.xml 7.12030934 50.86496249 69.39 284
+#OBJECT_SHARED Models/Commercial/hotel-generic-01.xml 7.12030934 50.86496249 69.39 284
 OBJECT_SHARED Models/Effects/RedLight10000.xml 7.13401752 50.86903781 74.03 0
 OBJECT_SHARED Models/Effects/RedLight10000.xml 7.13407031 50.8689381 74.05 0
 OBJECT_SHARED Models/Effects/RedLight10000.xml 7.13417258 50.86907268 74.09 0
