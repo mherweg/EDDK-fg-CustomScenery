@@ -20,6 +20,8 @@ Köln Bonn airport for FlightGear
 * ATC tower
 * Zero G  A300
 * Radar tower from EDDH 
+* Hangar 3
+* Hangar 7 (ACC Columbia)
 
 ### Todo
 * model Terminal 1
@@ -39,8 +41,28 @@ Köln Bonn airport for FlightGear
 * ICE: make all cars emit at night
 * close terrain gaps
 
+### Todo
+* Terminal 1
+* Cargo city
+* better roads
+* Rembrandt trasparency
+* try glass reflection effect
+* Phantom F4
+* Panavia Tornado
+* some taxisings missing like: TORA 
+* red & white buildings left of 14L
+* little tower (weather office?) left of 14L
+* EDDK jetways:flat surface, hood & stairs: blue, grey
+* radar tower: use the one fron EDDH - uploaded to terrasync
+* use concrete textures from KBOS?
+* roof textures needed
+* chrome shader: why do textured objects emit at night and untextured not ?
+* chrome shader: unusable for T2 facade because of non-square texture ?
+* ICE train: make all cars emit at night
+
 ## Credits
 * Terrain by fgmembers TerraGIT
 * WED artist: Litjan
 * Roads: osm2city
+* Blender OSM import by prokitektura https://github.com/vvoovv/blender-osm
 
