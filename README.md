@@ -26,7 +26,7 @@ Köln Bonn airport for FlightGear
 ### Todo
 * model Terminal 1
 * texture UPS buildings
-* Rembrandt trasparency
+* Rembrandt transparency
 * glass reflection effect
 * Phantom F4
 * Panavia Tornado

@@ -1,0 +1,25 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1.0000 1.0000 1.0000  amb 0.2000 0.2000 0.2000  emis 0.0000 0.0000 0.0000  spec 0.5000 0.5000 0.5000  shi 10 trans 0.0000
+MATERIAL "cat" rgb 0.8000 0.8000 0.8000  amb 1.0000 1.0000 1.0000  emis 0.1000 0.1000 0.1000  spec 0.0000 0.0000 0.0000  shi 50 trans 0.0000
+OBJECT world
+name "Blender_export__people2-bb.ac"
+kids 1
+OBJECT poly
+name "Plane"
+loc 0.0000000 3.5651379 -0.1504548
+texture "people2-bb.png"
+texrep 1 1
+numvert 4
+1.7587013 -1.7599359 0.0810000
+1.7587018 -3.6729362 0.0810000
+-1.7699559 -1.7599361 0.0806571
+-1.7699552 -3.6729362 0.0806571
+numsurf 1
+SURF 0X0
+mat 1
+refs 4
+0 1.000000 1.000000
+2 0.000000 1.000000
+3 0.000000 -0.000000
+1 1.000000 0.000000
+kids 0

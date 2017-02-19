@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+    <path>cat-walk2d.ac</path>
+
+    <animation>
+		<type>textranslate</type>
+        <object-name>Plane</object-name>
+         <property>/controls/doors/door5/position-norm</property>
+      
+        <factor>0.11111</factor>
+     
+        <axis>
+            <x>1</x>
+            <y>0</y>
+            <z>0</z>
+        </axis>
+
+    </animation>
+    
+    
+    
+<animation>
+  <type>rotate</type>
+    <property>/sim/time/elapsed-sec</property>
+  <factor>8.0</factor>
+  <center>
+   <x-m>0.0</x-m>
+   <y-m>50.0</y-m>
+   <z-m>0.0</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>0</y>
+   <z>-1</z>
+  </axis>
+</animation>
+
+    
+    
+    
+<nasal>
+	<load>
+		var i=10;
+    var update = func(){
+      i=i-1;
+      if (i==0)
+       {
+       i=9;
+       }
+		setprop("/controls/doors/door5/position-norm", i)	;
+    timer.restart(0.03); 
+}
+
+var timer = maketimer(1, update);
+    timer.start();
+ </load>  
+</nasal>	 
+    
+    
+</PropertyList>
