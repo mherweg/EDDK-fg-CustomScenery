@@ -7,7 +7,7 @@
     <animation>
 		<type>textranslate</type>
         <object-name>Plane</object-name>
-         <property>/controls/doors/door4/position-norm</property>
+         <property>/scenery/cat-walk2d</property>
       
         <factor>0.11111</factor>
      
@@ -43,19 +43,31 @@
 <nasal>
 	<load>
 		var i=10;
-    var update = func(){
+
+
+var update = func(){
       i=i-1;
       if (i==0)
        {
        i=9;
        }
-		setprop("/controls/doors/door4/position-norm", i)	;
+		setprop("/scenery/cat-walk2d", i)	;
     timer.restart(0.1); 
 }
 
-var timer = maketimer(1, update);
+#print (getprop("/scenery/cat-walk2d")) ;
+if (getprop("/scenery/cat-walk2d") == nil)	{
+    setprop("/scenery/cat-walk2d", 9)	;
+	print("I'm the first cat-walk2d and I will start and update the timer for me and all the others");
+	var timer = maketimer(1, update);
     timer.start();
+    }
+
  </load>  
+
+
+
+
 </nasal>	 
     
     

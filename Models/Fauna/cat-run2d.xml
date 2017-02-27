@@ -7,7 +7,7 @@
     <animation>
 		<type>textranslate</type>
         <object-name>Plane</object-name>
-         <property>/controls/doors/door5/position-norm</property>
+         <property>/scenery/cat-run2d</property>
       
         <factor>0.11111</factor>
      
@@ -40,22 +40,32 @@
     
     
     
+    
 <nasal>
 	<load>
-		var i=10;
-    var update = func(){
+var i=10;
+
+
+var update = func(){
       i=i-1;
       if (i==0)
        {
        i=9;
        }
-		setprop("/controls/doors/door5/position-norm", i)	;
+		setprop("/scenery/cat-run2d", i)	;
     timer.restart(0.03); 
 }
 
-var timer = maketimer(1, update);
+#print (getprop("/scenery/cat-run2d")) ;
+if (getprop("/scenery/cat-run2d") == nil)	{
+    setprop("/scenery/cat-run2d", 9)	;
+	print("I'm the first cat-run2d and will start and update the timer for me and all the others");
+	var timer = maketimer(1, update);
     timer.start();
- </load>  
+    }
+    
+ </load> 
+ 
 </nasal>	 
     
     

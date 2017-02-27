@@ -7,7 +7,7 @@
     <animation>
 		<type>textranslate</type>
         <object-name>Plane</object-name>
-         <property>/controls/doors/door8/position-norm</property>
+         <property>/scenery/white-cat</property>
       
         <factor>0.1428</factor>
      
@@ -43,20 +43,30 @@
 <nasal>
 	<load>
 		var i=0;
-    var update = func(){
+
+
+var update = func(){
      
       if (i==7)
        {
        i=0;
        }
-		setprop("/controls/doors/door8/position-norm", i)	;
+		setprop("/scenery/white-cat", i)	;
 		 i=i+1;
     timer.restart(0.1); 
 }
 
-var timer = maketimer(1, update);
+#print (getprop("/scenery/cat-run2d")) ;
+if (getprop("/scenery/white-cat") == nil)	{
+    setprop("/scenery/white-cat", 0)	;
+	print("I'm the first white-cat and will start and update the timer for me and all the other white-cats");
+	var timer = maketimer(1, update);
     timer.start();
- </load>  
+    }
+    
+ </load> 
+ 
+		
 </nasal>	 
     
     
