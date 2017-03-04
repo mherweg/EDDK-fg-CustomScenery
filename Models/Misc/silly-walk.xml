@@ -10,27 +10,24 @@
 	<alpha-factor>0.01</alpha-factor>
 </animation>
 
-    <animation>
+<animation>
 		<type>textranslate</type>
         <object-name>Plane</object-name>
-         <property>/controls/doors/door7/position-norm</property>
-      
+         <property>/sim/time/utc/second</property>
         <factor>0.1</factor>
-     
         <axis>
             <x>1</x>
             <y>0</y>
             <z>0</z>
         </axis>
-
-    </animation>
+</animation>
     
     
     
 <animation>
   <type>rotate</type>
-    <property>/controls/doors/door7/position-norm</property>
-  <factor>2.0</factor>
+    <property>/sim/time/utc/second</property>
+  <factor>6.0</factor>
   <center>
    <x-m>0.0</x-m>
    <y-m>20.0</y-m>
@@ -39,33 +36,11 @@
   <axis>
    <x>0</x>
    <y>0</y>
-   <z>-1</z>
+   <z>1</z>
   </axis>
 </animation>
 
     
-    
-    
-<nasal>
-	<load>
-	var i=10;
-	var j=0;
-    var update = func(){
-      i=i-1;
-      j=j+1;
-      if (i==0)
-       {
-			i=9;
-       }
-		setprop("/controls/doors/door6/position-norm", i)	;
-		setprop("/controls/doors/door7/position-norm", j)	;
-		timer.restart(0.4); 
-	}
-
-	var timer = maketimer(1, update);
-    timer.start();
-	</load>  
-</nasal>	 
     
     
 </PropertyList>
